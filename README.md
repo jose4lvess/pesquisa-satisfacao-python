@@ -59,19 +59,19 @@ As respostas são analisadas com estruturas condicionais:
 1. Clone o repositório:
 
 ```
-https://github.com/jose4lvess/pesquisa-satisfacao-python
+https://github.com/jose4lvess?tab=repositories
 ```
 
 2. Acesse a pasta:
 
 ```
-cd pesquisa-satisfacao-python
+pesquisa-satisfacao-python
 ```
 
 3. Execute o programa:
 
 ```
-python pesquisa.py
+pesquisa.py
 ```
 
 ---
