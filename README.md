@@ -59,7 +59,7 @@ As respostas são analisadas com estruturas condicionais:
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/pesquisa-satisfacao-python.git
+git clone https://github.com/jose4lvess/pesquisa-satisfacao-python/blob/main/pesquisa.py
 ```
 
 2. Acesse a pasta:
