@@ -2,7 +2,7 @@
 
 ## 📝 Descrição
 
-Este projeto consiste em um programa desenvolvido em Python para realizar uma pesquisa de satisfação com clientes da empresa fictícia **TudoWeb**.
+Este projeto consiste em um programa desenvolvido em Python para realizar uma pesquisa de satisfação com clientes da empresa **TudoWeb**.
 
 O sistema coleta informações dos entrevistados e analisa o nível de satisfação em relação ao atendimento prestado.
 
