@@ -62,7 +62,7 @@ As respostas são analisadas com estruturas condicionais:
 https://github.com/jose4lvess?tab=repositories
 ```
 
-2. Acesse a pastaa:
+2. Acesse a pasta:
 
 ```
 pesquisa-satisfacao-python
