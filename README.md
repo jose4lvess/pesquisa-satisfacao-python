@@ -51,7 +51,7 @@ As respostas são analisadas com estruturas condicionais:
 ## 💻 Tecnologias Utilizadas
 
 * Python 
-
+* Visual Studio Code
 ---
 
 ## ▶️ Como Executar o Projeto
