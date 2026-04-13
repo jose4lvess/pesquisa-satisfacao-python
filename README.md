@@ -76,7 +76,7 @@ pesquisa.py
 
 ---
 
-## 🧪 Testes
+## 🧪 Teste
 
 Para facilitar os testes, o programa pode ser executado com apenas 10 entrevistados, alterando o intervalo do `for`:
 
